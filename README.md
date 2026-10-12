@@ -1,4 +1,4 @@
-# Olá, sou o Luís
+# Olá, sou o Luis
 
 Sou formado em Administração e trabalho com contratos e convênios no setor público, controlando prazos, etapas e instituições em planilhas.
 Atualmente estou estudando Power BI e SQL, com base sólida em Excel.
